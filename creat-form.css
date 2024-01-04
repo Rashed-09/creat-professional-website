@@ -1,0 +1,8 @@
+main form label{
+    display: block;
+    margin-bottom: 20px;
+    
+}
+.reset, .submit{
+    margin-top: 10px;
+}
